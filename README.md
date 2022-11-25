@@ -1,7 +1,9 @@
 # AL_TwitterSAD
 
-Twitter-Sentiment-Analysis-for-Data-Science (2023)
+Twitter-Sentiment-Analysis-for-Data-Science (2023).
+
 Por APKNETWORK
+
 Sistema operativo utilizado: WINDOWS 11/10.
 
 Versión de Python utilizada: Python 3.8.10.
