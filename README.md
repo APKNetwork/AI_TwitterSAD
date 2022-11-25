@@ -1,4 +1,4 @@
-# AL_TwitterSAD
+# AI_TwitterSAD
 
 Twitter-Sentiment-Analysis-for-Data-Science (2023).
 
